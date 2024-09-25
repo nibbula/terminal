@@ -1,3 +1,5 @@
+# Moved to https://codeberg.org/nibbula/yew/src/branch/master/terminal
+
 Provides a generic interface an imaginary thing once called a terminal.
 
 It's not fully baked yet, but it's more than half baked. 
